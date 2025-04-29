@@ -1,0 +1,61 @@
+﻿ID,State,Level,School Name,Location,District,Contact Person,Website
+1,TELANGANA,Senior Secondary Level,SRI CHAITANYA TECHNO SCHOOL,"BANJARA HILLS, HYDERABAD",HYDERABAD,RAJESH,https://scholars.srichaitanya.net/
+2,TELANGANA,Secondary Level,TRINITY SCHOOL,"KUKATPALLY, HYDERABAD",HYDERABAD,PRIYA,https://trinityschoolhyd.edu.in/
+3,TELANGANA,Senior Secondary Level,GEETANJALI SCHOOL,"GACHIBOWLI, HYDERABAD",HYDERABAD,KALPANA,https://geetanjali.ac.in/
+4,TELANGANA,Secondary Level,BALAYOGI SCHOOL,"BOLARUM, SECUNDERABAD",HYDERABAD,ANANTH,https://balayogischool.edu/
+5,TELANGANA,Senior Secondary Level,ST. ANN'S SCHOOL,"MALAKPET, HYDERABAD",HYDERABAD,SATISH,https://stanns.edu.in/
+6,TELANGANA,Senior Secondary Level,GLENDEN SCHOOL,"KHILKATH, HYDERABAD",HYDERABAD,RAJESH KUMAR,https://glenden.edu.in/
+7,TELANGANA,Secondary Level,SRI VIDYA MANDIR,"SRI NAGAR, SECUNDERABAD",HYDERABAD,MEERA,https://srividyamandir.edu/
+8,TELANGANA,Senior Secondary Level,MSB SCHOOL,"MALAKPET, HYDERABAD",HYDERABAD,PRIYA,https://msb-schoolhyd.edu.in/
+9,TELANGANA,Secondary Level,RED ROSE SCHOOL,"NEW BOWENPALLY, SECUNDERABAD",HYDERABAD,RAJ KUMAR,https://redroseschoolsec.edu/
+10,TELANGANA,Senior Secondary Level,VISWA VIDYALAYA,"SECUNDERABAD, HYDERABAD",HYDERABAD,KALPANA,https://viswavidyalaya.edu.in/
+11,TELANGANA,Secondary Level,SRI CHAITANYA SCHOOL,"NIZAMABAD, NIZAMABAD",NIZAMABAD,KALPANA,https://srichaitanya-nizamabad.edu/
+12,TELANGANA,Senior Secondary Level,ARMY SCHOOL,"SECUNDERABAD, HYDERABAD",HYDERABAD,RAJESH,https://armyschoolsec.edu.in/
+13,TELANGANA,Secondary Level,KENDRIYA VIDYALAYA,"ADABAD, HYDERABAD",HYDERABAD,PRIYA,https://kvhyd.edu.in/
+14,TELANGANA,Senior Secondary Level,ST. PETER'S SCHOOL,"KUKATPALLY, HYDERABAD",HYDERABAD,MEERA,https://stpeters.edu.in/
+15,TELANGANA,Secondary Level,SRI SAI PUBLIC SCHOOL,"YELLAREDDY, MEDAK",MEDAK,RAJESH,https://srisai-publicschool.edu/
+16,TELANGANA,Senior Secondary Level,INDIAN SCHOOL,"MALAKPET, HYDERABAD",HYDERABAD,KALPANA,https://indianschool.edu.in/
+17,TELANGANA,Secondary Level,SRI MAHA LAXMI SCHOOL,"PATANCHERU, MEDAK",MEDAK,PRIYA,https://sri-mahalaxmi.edu.in/
+18,TELANGANA,Senior Secondary Level,MODERN SCHOOL,"MALKAPUR, KHAMMAM",KHAMMAM,RAJESH KUMAR,https://modernschoolkhammam.edu/
+19,TELANGANA,Secondary Level,RAJEEV VIDYALAYA,"BHEL, HYDERABAD",HYDERABAD,SATISH,https://rajeevvidyalaya.edu.in/
+20,TELANGANA,Senior Secondary Level,GREENWOOD SCHOOL,"NIZAMABAD, NIZAMABAD",NIZAMABAD,RAJESH,https://greenwood.edu.in/
+21,ANDHRA PRADESH,Senior Secondary Level,SRI CHAITANYA SCHOOL,"Nellore, NELLORE",NELLORE,RAJESH,https://srichaitanyaschoolncl.edu/
+22,ANDHRA PRADESH,Secondary Level,KENDRIYA VIDYALAYA,"Vijayawada, KRISHNA",VIJAYAWADA,SATISH,https://kvvijayawada.edu.in/
+23,ANDHRA PRADESH,Senior Secondary Level,GURUKUL SCHOOL,"RAMESWARAM, KURNOOL",KURNOOL,PRIYA,https://gurukul.kur.edu.in/
+24,ANDHRA PRADESH,Secondary Level,SANKRANTI SCHOOL,"SIDDHARTHA, GUNTUR",GUNTUR,RAJESH,https://sankranti-guntur.edu/
+25,ANDHRA PRADESH,Senior Secondary Level,SRI VENKATESWARA SCHOOL,"TIRUPATI, CHITTOOR",CHITTOOR,KALPANA,https://svschooltirupati.edu/
+26,ANDHRA PRADESH,Secondary Level,MOTHER TERESA SCHOOL,"VISAKHAPATNAM, VISAKHAPATNAM",VISAKHAPATNAM,MEERA,https://mtheresaschoolvisakha.edu/
+27,ANDHRA PRADESH,Senior Secondary Level,SRI KALPANA SCHOOL,"ELURU, WEST GODAVARI",ELURU,SATISH,https://kalpana-eluru.edu/
+28,ANDHRA PRADESH,Secondary Level,SHARADA SCHOOL,"RAJAHMUNDRY, EAST GODAVARI",RAJAHMUNDRY,RAJESH,https://sharadapublicschool.edu.in/
+29,ANDHRA PRADESH,Senior Secondary Level,SAPTHAGIRI SCHOOL,"KADAPA, YSR",KADAPA,PRIYA,https://sapthagiri-cadapa.edu/
+30,ANDHRA PRADESH,Secondary Level,RISHI VIDYA SCHOOL,"MACHILIPATNAM, KRISHNA",MACHILIPATNAM,RAJESH,https://rishividyaschoolmch.edu/
+31,ANDHRA PRADESH,Senior Secondary Level,KORRAPOLU SCHOOL,"SRIKAKULAM, SRIKAKULAM",SRIKAKULAM,KALPANA,https://korrapoluschool.edu/
+32,ANDHRA PRADESH,Secondary Level,NEW HORIZON SCHOOL,"VISAKHAPATNAM, VISAKHAPATNAM",VISAKHAPATNAM,RAJESH,https://newhorizon-vizag.edu/
+33,ANDHRA PRADESH,Senior Secondary Level,SRI SARASWATHI SCHOOL,"NELLORE, NELLORE",NELLORE,PRIYA,https://srisaraswathischoolncl.edu/
+34,ANDHRA PRADESH,Secondary Level,ANAND SCHOOL,"WARANGAL, WARANGAL",WARANGAL,PRIYA,https://anandschoolwarangal.edu/
+35,ANDHRA PRADESH,Senior Secondary Level,SHIVAJI PUBLIC SCHOOL,"GUNTUR, GUNTUR",GUNTUR,MEERA,https://shivajipublicschool.edu/
+36,ANDHRA PRADESH,Secondary Level,SRI RAVITEJA SCHOOL,"ANANTAPUR, ANANTAPUR",ANANTAPUR,RAJESH,https://sriravitejaschool.edu/
+37,ANDHRA PRADESH,Senior Secondary Level,SRINIVASA PUBLIC SCHOOL,"NANDYAL, KURNOOL",KURNOOL,KALPANA,https://srinivasapublicschool.edu/
+38,ANDHRA PRADESH,Secondary Level,ST. THOMAS SCHOOL,"MACHILIPATNAM, KRISHNA",MACHILIPATNAM,PRIYA,https://stthomasmch.edu/
+39,ANDHRA PRADESH,Senior Secondary Level,WHITE FIELD SCHOOL,"RAJAHMUNDRY, EAST GODAVARI",RAJAHMUNDRY,SATISH,https://whitefieldschool.edu/
+40,ANDHRA PRADESH,Secondary Level,SHREE VISHNU SCHOOL,"WEST GODAVARI, ELURU",ELURU,RAJESH,https://shreevishnueschool.edu/
+41,ANDHRA PRADESH,Senior Secondary Level,SRI RAGHAVENDRA SCHOOL,"NELLORE, NELLORE",NELLORE,PRIYA,https://sriraghavendraschoolncl.edu/
+42,ANDHRA PRADESH,Secondary Level,SAI VIDYA SCHOOL,"TIRUPATI, CHITTOOR",TIRUPATI,MEERA,https://saividyaschooltirupati.edu/
+43,ANDHRA PRADESH,Senior Secondary Level,SRI DEVI SCHOOL,"GUNTUR, GUNTUR",GUNTUR,RAJESH,https://sridevischoolguntur.edu/
+44,ANDHRA PRADESH,Secondary Level,BHARATI PUBLIC SCHOOL,"SRIKAKULAM, SRIKAKULAM",SRIKAKULAM,KALPANA,https://bharatipublicschool.edu/
+45,ANDHRA PRADESH,Senior Secondary Level,KENDRIYA VIDYALAYA,"VISAKHAPATNAM, VISAKHAPATNAM",VISAKHAPATNAM,PRIYA,https://kvvizag.edu.in/
+46,ANDHRA PRADESH,Secondary Level,VIVEKANANDA SCHOOL,"RAJAHMUNDRY, EAST GODAVARI",RAJAHMUNDRY,RAJESH,https://vivekanandaschool.edu/
+47,ANDHRA PRADESH,Senior Secondary Level,ST. MARY'S SCHOOL,"NELLORE, NELLORE",NELLORE,PRIYA,https://stmarysschoolncl.edu/
+48,ANDHRA PRADESH,Secondary Level,MAHARSHI SCHOOL,"KURNOOL, KURNOOL",KURNOOL,SATISH,https://maharshischool.edu/
+49,ANDHRA PRADESH,Senior Secondary Level,SRI VENKATESHWARA SCHOOL,"KADAPA, YSR",KADAPA,MEERA,https://sri-venkateshwara-school.edu/
+50,ANDHRA PRADESH,Secondary Level,APOLLO SCHOOL,"VISAKHAPATNAM, VISAKHAPATNAM",VISAKHAPATNAM,RAJESH,https://apolloschoolvizag.edu/
+51,ANDHRA PRADESH,High School,Ongole Zilla Parishad High School,"Ongole, Prakasam",Ongole,Principal,N/A
+52,ANDHRA PRADESH,High School,Sri Chaitanya High School,"Ongole, Prakasam",Ongole,Principal,N/A
+53,ANDHRA PRADESH,Junior College,Narayana Junior College,"Ongole, Prakasam",Ongole,Principal,N/A
+54,ANDHRA PRADESH,High School,Little Flower High School,"Ongole, Prakasam",Ongole,Principal,N/A
+55,ANDHRA PRADESH,High School,Government High School,"Ongole, Prakasam",Ongole,Principal,N/A
+56,ANDHRA PRADESH,High School,Ravindra Bharathi School,"Ongole, Prakasam",Ongole,Principal,N/A
+57,ANDHRA PRADESH,High School,Vignan High School,"Ongole, Prakasam",Ongole,Principal,N/A
+58,ANDHRA PRADESH,High School,Sri Sai Vidyaniketan,"Ongole, Prakasam",Ongole,Principal,N/A
+59,ANDHRA PRADESH,High School,Bhashyam Public School,"Ongole, Prakasam",Ongole,Principal,N/A
+60,ANDHRA PRADESH,High School,Prathibha High School,"Ongole, Prakasam",Ongole,Principal,N/A
