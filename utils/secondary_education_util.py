@@ -647,7 +647,3 @@ def display_career_opportunities_tab():
         - Option to join B.Com / BBA (lateral entry possible in some cases)
       - **Job Roles:** Junior Accountant, Office Assistant, Data Entry Operator, Clerk
     """)
-
-# Footer
-st.markdown("---")
-st.caption("QIS Engineering College Team | © 2025")
