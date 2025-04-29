@@ -18,7 +18,7 @@ def display_secondary_education_content():
     with tab5:
         display_job_opportunities()
     with tab6:
-        diplay_career_opportunities_tab()
+        display_career_opportunities_tab()
 
 def display_home_tab():
     st.markdown('<div class="tab-header">🎓 Further Education After Grade 10</div>', unsafe_allow_html=True)
@@ -565,7 +565,7 @@ def display_job_opportunities():
           (Jobs after ITI certifications)
         """)
 
-def diplay_career_opportunities_tab():
+def display_career_opportunities_tab():
     st.markdown('<h5 style="color: #0d6efd;">🎯 Entrance Exams for MPC Students (Maths, Physics, Chemistry)</h4>',
                 unsafe_allow_html=True)
 

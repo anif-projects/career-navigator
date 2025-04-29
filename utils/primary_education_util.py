@@ -248,6 +248,64 @@ def display_primary_education_content():
             "🔔 Tip: After SSC, pursuing ITI (Industrial Training Institutes) or Polytechnic courses can open even better job options!")
 
     with tab6:
-        st.info("🚧 Content for Career Options is under construction.")
+        st.markdown('<h4 style="color: #0d6efd;">🎯 Career Opportunities After SSC (10th Class)</h4>',
+                    unsafe_allow_html=True)
 
+        st.markdown("""
+        - **🏫 Intermediate (+2 / 10+2) Streams**
+          - 📘 **MPC** (Maths, Physics, Chemistry) – Leads to Engineering, Architecture, Defence
+          - 🧬 **BiPC** (Biology, Physics, Chemistry) – Leads to Medicine, Pharmacy, Agriculture
+          - 📊 **CEC** (Civics, Economics, Commerce) – For Commerce, CA, Law, Banking
+          - 📈 **MEC** (Maths, Economics, Commerce) – For CA, CMA, Business Analytics
+          - 🎨 **HEC** (History, Economics, Civics) – For Humanities, Law, IAS/IPS Preparation
 
+        - **🏭 Vocational Intermediate Courses**
+          - Designed for job-readiness & skill-building
+          - Examples: Computer Science, Agriculture, Health Care, Automobile Technology, Retail, Tourism, etc.
+
+        - **🛠️ Polytechnic Diploma Courses**
+          - **Entrance Exam:** POLYCET (AP & TS)
+          - **Courses:** Civil, Mechanical, Electrical, Computer Engineering, etc.
+          - **Duration:** 3 Years
+          - **Lateral Entry:** Eligible for B.Tech via ECET after diploma
+          - **Job Roles:** Technician, Junior Engineer, CAD Operator
+
+        - **💊 Diploma in Pharmacy (D.Pharm)**
+          - **Eligibility:** BiPC or MPC in Intermediate
+          - **Duration:** 2 years (after 12th)
+          - Pathway to: B.Pharm (Lateral), Medical Store Jobs
+
+        - **✈️ ITI Courses (Industrial Training Institutes)**
+          - **Duration:** 1-2 Years (after 10th)
+          - **Trades:** Electrician, Fitter, Welder, Plumber, Computer Operator, etc.
+          - **Benefits:** Job-ready certifications, government apprentice programs
+
+        - **👮 Defense / Armed Forces Opportunities**
+          - **NDA (after Intermediate MPC)** – Army, Navy, Air Force
+          - **Indian Navy Sailor Entry / Air Force Group X & Y** – after 12th
+          - **SSC GD / CRPF / Police Constable Exams** – Eligibility starts after 10th
+
+        - **📚 Open Schooling / Bridge Courses**
+          - NIOS – Flexible study for those unable to continue formal education
+          - Bridge to Intermediate or skill courses
+        """)
+
+        st.markdown('<h4 style="color: #0d6efd;">📍 Specific to AP & Telangana Students</h4>',
+                    unsafe_allow_html=True)
+
+        st.markdown("""
+        - **POLYCET** – Entry to diploma/polytechnic colleges after 10th
+        - **APRJC / TSRJC** – Entrance to Residential Junior Colleges (free education for merit students)
+        - **IIIT RGUKT** – 6-year integrated B.Tech after 10th (AP & TS)
+        - **Gurukula Schools / Colleges** – Competitive coaching for poor & rural merit students
+        - **Model Schools & Vocational Education Centers** – Government-supported
+        """)
+
+        st.markdown('<h4 style="color: #0d6efd;">🚀 Tips for SSC Students</h4>', unsafe_allow_html=True)
+
+        st.markdown("""
+        - Choose a stream based on **interest + career goals**
+        - Consider job-oriented diploma/ITI courses if not pursuing intermediate
+        - Take help from teachers/counselors to understand entrance exams
+        - Use free government resources (career portals, model papers, helplines)
+        """)
