@@ -86,7 +86,7 @@ with st.sidebar:
 
 # Home Page
 if selected_level == "Home":
-    st.title("🚀 Career Navigator AI")
+    st.title("🚀 Career Navigator")
 
     st.markdown("""
     Welcome to **Career Navigator AI**, your trusted companion for academic and career guidance! 🌟
