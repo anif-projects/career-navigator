@@ -50,8 +50,11 @@ career-navigator-ai/
 ---
 ## 🛠️ Built With
 #### Python == 3.12.10
-#### Gemini AI
-#### Streamlit
+#### pandas
+#### requests
+#### python-dotenv
+#### streamlit_option_menu
+#### google-generativeai
 
 
 ---
