@@ -528,3 +528,7 @@ def display_career_opportunities_tab():
     # Footer
     st.markdown("---")
     st.caption("QIS Engineering College Team | © 2025")
+
+
+def display_undergraduate_education_cont():
+    return None
